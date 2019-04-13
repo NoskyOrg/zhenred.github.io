@@ -1,3 +1,3 @@
 This is my test website
 
-* [LearningGit.md]
+* [Git笔记](LearningGit.md)
